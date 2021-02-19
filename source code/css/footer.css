@@ -1,0 +1,31 @@
+/* footer style */
+#footer {
+    background: white;
+    color: black;
+}
+
+.footer-head {
+    color: black;
+}
+
+.footer-links ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+    border-top: #ccc;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-links a:hover {
+    color: black;
+}
+
+.chevron-green {
+    color: black;
+}
+
