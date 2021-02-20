@@ -65,10 +65,11 @@
 
 <div class="promo-container">
     <div class="container promo-carousel owl-carousel owl-theme mb-5">
+        
         <div class="row mt-4 mb-4">
             <div class="col"></div>
             <div class="promo-img col-md-10">
-                <img class="img-fluid w-100" src="images/promos/promo2.png"/>
+                <img class="img-fluid w-100" src="images/promos/ecics_promo_1.jpg"/>
             </div>
             <div class="col"></div>
         </div>
@@ -76,27 +77,12 @@
         <div class="row mt-4 mb-4">
             <div class="col"></div>
             <div class="promo-img col-md-10">
-                <img class="img-fluid w-100" src="images/promos/promo2.png"/>
-            </div>
-            <div class="col"></div>
-        </div>
-
-        <div class="row mt-4 mb-4">
-            <div class="col"></div>
-            <div class="promo-img col-md-10">
-                <img class="img-fluid w-100" src="images/promos/promo2.png"/>
-            </div>
-            <div class="col"></div>
-        </div>
-
-        <div class="row mt-4 mb-4">
-            <div class="col"></div>
-            <div class="promo-img col-md-10">
-                <img class="img-fluid w-100" src="images/promos/promo2.png"/>
+                <img class="img-fluid w-100" src="images/promos/ecics_promo_2.png"/>
             </div>
             <div class="col"></div>
         </div>
     </div>
+    
     <div class=" promo-controls">
         <button class="promo-left-btn btn btn-default btn-circle btn-xl">
             <span class="iconify " data-icon="bx-bx-chevron-left" data-inline="false"></span>

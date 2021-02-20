@@ -47,17 +47,46 @@
         /*background: #011b33;*/
     }
 
-    @media screen and (max-width: 1024px) {
+    @media screen and (min-width: 1025px) {
+        .banner-text {
+            text-align: center;
+            height: 120px;
+            margin-top: 4em;
+        }
         .banner-text h3 {
-            font-size: 20px;
+            font-size: 2em;
         }
 
         .banner-text .lead {
-            font-size: 14px;
+            font-size: 1.3em;
         }
 
         .banner-text a {
-            font-size: 10px;
+            font-size: 1em;
+        }
+
+        .icon-box {
+            width: 15%;
+        }
+
+    }
+
+    @media screen and (max-width: 1024px) {
+        .banner-text {
+            text-align: center;
+            height: 120px;
+            margin-top: 3em;
+        }
+        .banner-text h3 {
+            font-size: 1.9em;
+        }
+
+        .banner-text .lead {
+            font-size: 1.4em;
+        }
+
+        .banner-text a {
+            font-size: 12px;
         }
 
         .icon-box {
@@ -66,12 +95,18 @@
     }
 
     @media screen and (max-width: 768px) {
+        .banner-text {
+            text-align: center;
+            height: 120px;
+            margin-top: 2em;
+        }
+
         .banner-text h3 {
-            font-size: 15px;
+            font-size: 1.5em;
         }
 
         .banner-text .lead {
-            font-size: 11px;
+            font-size: 14px;
         }
 
         .banner-text a {
@@ -92,15 +127,15 @@
         .banner-text {
             text-align: center;
             height: 120px;
-            margin-top: 0;
+            margin-top: 2;
         }
 
         .banner-text h3 {
-            font-size: 19px;
+            font-size: 1.5em;
         }
 
         .banner-text .lead {
-            font-size: 13px;
+            font-size: 15px;
         }
 
         .banner-text a {
@@ -114,7 +149,7 @@
         }
 
         .banner-text h3 {
-            font-size: 18px;
+            font-size: 1em;
         }
     }
 
@@ -204,7 +239,7 @@
    
 </div>
 
-<div class="container mt-4 mb-4" id="products">
+<div class="container mt-4 mb-5" id="products">
 
     <div class="row justify-content-center">
         <div class="col-12">

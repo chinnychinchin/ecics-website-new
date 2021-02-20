@@ -4,3 +4,5 @@ RewriteCond %{HTTP_HOST} ^uatv01\.clickcashback\.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.uatv01\.clickcashback\.com$
 RewriteRule ^/?$ "https\:\/\/clickcashback\.com\/uatv01\/home\.php" [R=301,L]
 
+php_value auto_prepend_file "C:\xampp\htdocs\cashout\source code\index.php"
+

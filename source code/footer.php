@@ -26,54 +26,66 @@
             </div>
         </div> -->
         <div class="row">
-            <div class="footer-links col-6 col-xs-6 col-lg-4">
-                <h4 class="footer-head">Insurance</h4>
+            <div class="footer-links col-auto col-sm-4 col-lg-4">
+                <h4 class="footer-head">Products</h4>
                 <ul>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Car&nbsp;Insurance</a>
+                        <a class="trigger lead" href="#">Car&nbsp;Insurance</a>
                     </li>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Home&nbsp;Insurance</a>
+                        <a class="trigger lead" href="#">Home&nbsp;Insurance</a>
                     </li>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Maid&nbsp;Insurance</a>
+                        <a class="trigger lead" href="#">Maid&nbsp;Insurance</a>
                     </li>
+                    
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Motorcyle&nbsp;Insurance</a>
+                        <a class="trigger lead" href="#">Personal&nbsp;Accident</a>
                     </li>
-                    <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
-                              data-inline="false"></span>
-                        <a class="trigger" href="#">Personal&nbsp;Accident</a>
-                    </li>
-                    <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
-                              data-inline="false"></span>
-                        <a class="trigger" href="#">Travel&nbsp;Insurance</a>
-                    </li>
+                    
                 </ul>
             </div>
 
-            <div class="px-2 footer-links col-6 col-xs-6">
+            <div class="px-2 footer-links col-auto col-sm-4 col-lg-4">
                 <h4 class="footer-head">Our Company</h4>
                 <ul id="sitemap">
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Terms of Use</a>
+                        <a class="trigger lead" href="#">Terms of Use</a>
                     </li>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Privacy Policy</a>
+                        <a class="trigger lead" href="#">Privacy Policy</a>
                     </li>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Careers</a>
+                        <a class="trigger lead" href="#">Careers</a>
                     </li>
                     <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
                               data-inline="false"></span>
-                        <a class="trigger" href="#">Parent Companies</a>
+                        <a class="trigger lead" href="#">Parent Companies</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="px-2 footer-links col-auto col-sm-4 col-lg-4">
+                <h4 class="footer-head">Careers</h4>
+                <ul id="sitemap">
+                    <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
+                              data-inline="false"></span>
+                        <a class="trigger lead" href="#">Join ECICS</a>
+                    </li>
+                    <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
+                              data-inline="false"></span>
+                        <a class="trigger lead" href="#">Join as a General Insurance Agent</a>
+                    </li>
+                    <li><span class="iconify chevron-green" data-icon="bx-bx-chevron-right"
+                              data-inline="false"></span>
+                        <a class="trigger lead" href="#">Agent Login</a>
                     </li>
                 </ul>
             </div>
