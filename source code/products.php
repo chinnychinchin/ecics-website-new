@@ -173,70 +173,106 @@
 
 </style>
 
-<div class="banner-carousel owl-carousel owl-theme mt-5">
- 
-    <div class="banners row">
-        <div class="banner-img col-md-8">
-            <img class="img-responsive d-block" src="images\banners\1Singapore.png"/>
-        </div>
-        <div class="banner-text-container col text-white p-3">
-            <div class="banner-text">
-                <h3 style="color: black !important">Our Company</h3>
-                <div class="lead" style="color: black !important">
-                    A homegrown insurer that has its beginnings in Singapore since 1975
+<div id="banner" class="carousel slide mt-5" data-ride="carousel">
+    <div class="carousel-inner">
+
+        <div class="carousel-item active banners">
+            <div class="row">
+                <div class="banner-img col-md-8">
+                    <img class="img-responsive d-block w-100" src="images\banners\1Singapore.png"/>
                 </div>
-                <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
-            </div>
-        </div>
-    </div>
-
-    <div class="banners row">
-        <div class="banner-img col-md-8">
-            <img class="img-responsive d-block" src="images\banners\car.jpg"/>
-        </div>
-        <div class="banner-text-container col text-white p-3">
-            <div class="banner-text">
-                <h3 style="color: black !important">Private Motor Car</h3>
-                <div class="lead" style="color: black !important">
-                    Drive With A Peace Of Mind   
+                <div class="banner-text-container col text-white p-3">
+                    <div class="banner-text">
+                        <h3 style="color: black !important">Our Company</h3>
+                        <div class="lead" style="color: black !important">
+                            A homegrown insurer that has its beginnings in Singapore since 1975
+                        </div>
+                        <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
+                    </div>
                 </div>
-                <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
             </div>
+            
         </div>
-    </div>
 
-    <div class="banners row">
-        <div class="banner-img col-md-8">
-            <img class="img-responsive d-block" src="images\banners\home.jpg"/>
-        </div>
-        <div class="banner-text-container col text-white p-3">
-            <div class="banner-text">
-                <h3 style="color: black !important">Home</h3>
-                <div class="lead" style="color: black !important">
-                    Protect Your Safe Haven 
+        <div class="carousel-item banners">
+            <div class="row">
+                <div class="banner-img col-md-8">
+                    <img class="img-responsive d-block w-100" src="images\banners\car.jpg"/>
                 </div>
-                <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
-            </div>
-        </div>
-    </div>
-
-    <div class="banners row">
-        <div class="banner-img col-md-8">
-            <img class="img-responsive d-block" src="images\banners\4Maid.png"/>
-        </div>
-        <div class="banner-text-container col text-white p-3">
-            <div class="banner-text">
-                <h3 style="color: black !important">Maid<em>Assure</em></h3>
-                <div class="lead" style="color: black !important">
-                    High Coverge Maid Insurance At Low Cost
+                <div class="banner-text-container col text-white p-3">
+                    <div class="banner-text">
+                        <h3 style="color: black !important">Private Motor Car</h3>
+                        <div class="lead" style="color: black !important">
+                            Drive With A Peace Of Mind   
+                        </div>
+                        <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
+                    </div>
                 </div>
-                <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
-            </div>
+            </div> 
         </div>
+        
+        <div class="carousel-item banners">
+            <div class="row">
+                <div class="banner-img col-md-8">
+                    <img class="img-responsive d-block w-100" src="images\banners\home.jpg"/>
+                </div>
+                <div class="banner-text-container col text-white p-3">
+                    <div class="banner-text">
+                        <h3 style="color: black !important">Home</h3>
+                        <div class="lead" style="color: black !important">
+                            Protect Your Safe Haven 
+                        </div>
+                        <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
+                    </div>
+                </div>
+            </div> 
+        </div>
+        
+        <div class="carousel-item banners">
+            <div class="row">
+                <div class="banner-img col-md-8">
+                    <img class="img-responsive d-block w-100" src="images\banners\4Maid.png"/>
+                </div>
+                <div class="banner-text-container col text-white p-3">
+                    <div class="banner-text">
+                        <h3 style="color: black !important">Maid<em>Assure</em></h3>
+                        <div class="lead" style="color: black !important">
+                            High Coverge Maid Insurance At Low Cost
+                        </div>
+                        <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        <!-- Personal Accident -->
+        <div class="carousel-item banners">
+            <div class="row">
+                <div class="banner-img col-md-8">
+                    <img class="img-responsive d-block w-100" src="images\banners\personal_accident.jpeg"/>
+                </div>
+                <div class="banner-text-container col text-white p-3">
+                    <div class="banner-text">
+                        <h3 style="color: black !important">Personal Accident</h3>
+                        <div class="lead" style="color: black !important">
+                            Protect Your Loved Ones
+                        </div>
+                        <a class="btn orange-btn text-white bg-beige mt-3" href="#" role="button"><strong>Find out more</strong></a>
+                    </div>
+                </div>
+            </div>  
+        </div>
+        
     </div>
-
-
-   
+    <!-- Carousel controls -->
+    <a class="carousel-control-prev" href="#banner" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#banner" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    
 </div>
 
 <div class="container mt-4 mb-5" id="products">
