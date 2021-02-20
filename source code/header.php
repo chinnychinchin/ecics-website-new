@@ -22,8 +22,8 @@
 <script src="https://kit.fontawesome.com/497cae3575.js" crossorigin="anonymous"></script>
 
 <!-- Owl Stylesheets -->
-<link rel="stylesheet" href="vendor/owlcarousel/assets/owl.carousel.min.css">
-<link rel="stylesheet" href="vendor/owlcarousel/assets/owl.theme.default.min.css">
+<!-- <link rel="stylesheet" href="vendor/owlcarousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="vendor/owlcarousel/assets/owl.theme.default.min.css"> -->
 
 <!-- for owl carousel -->
 <!--[if lt IE 9]>

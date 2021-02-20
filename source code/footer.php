@@ -120,7 +120,7 @@
         crossorigin="anonymous"></script>
 
 <!-- owl carousel -->
-<script src="vendor/owlcarousel/owl.carousel.js"></script>
+<!-- <script src="vendor/owlcarousel/owl.carousel.js"></script>
 <script>
     $(document).ready(function () {
         var productsOwl = $('.banner-carousel');
@@ -175,4 +175,4 @@
 
     });
 
-</script>
+</script> -->
