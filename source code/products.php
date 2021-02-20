@@ -1,5 +1,6 @@
 <!-- Products Section -->
-<?php?>
+<?php
+?>
 
 <style>
 
