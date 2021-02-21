@@ -38,9 +38,9 @@
     <div class="section-title">
         <h2 class="green-title">Why Choose Us?</h2>
     </div>
-    <div class="row justify-content-around">
+    <div class="row justify-content-around mt-1">
         <!-- <div class="card-deck"> -->
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title text-dark"><i class="fa fa-building" aria-hidden="true"></i>&nbsp;Locally Owned</h4>
@@ -48,7 +48,7 @@
                     <!-- </div>
                 </div> -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title"><i class="fa fa-signal" aria-hidden="true"></i>&nbsp;Experience</h4>
@@ -56,7 +56,7 @@
                     <!-- </div>
                 </div> -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title"><i class="fa fa-laptop" aria-hidden="true"></i>&nbsp;Dedicated Claims Service</h4>
@@ -64,7 +64,7 @@
                     <!-- </div>
                 </div> -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title text-dark"><span class="iconify" data-icon="mdi-account-switch" data-inline="false"></span>&nbsp;Personal Touch</h4>
@@ -72,7 +72,7 @@
                     <!-- </div>
                 </div> -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title"><i class="fa fa-lightbulb-o" aria-hidden="true"></i>&nbsp;Innovative</h4>
@@ -80,7 +80,7 @@
                     <!-- </div>
                 </div> -->
             </div>
-            <div class="col-12 col-md-6 col-lg-4 pb-4">
+            <div class="col-12 col-md-6 col-lg-4 pb-5">
                 <!-- <div class="card border-light">
                     <div class="card-body"> -->
                         <h4 class="card-title"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>&nbsp;Simplicity</h4>
