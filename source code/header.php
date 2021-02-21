@@ -77,8 +77,9 @@
     }
 
     .dropdown>.dropdown-toggle:active {
-        /*Without this, clicking will make it sticky*/
+        /* Without this, clicking will make it sticky */
         pointer-events: none;
+      
     }
 
 
@@ -105,7 +106,7 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink0"
-                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     Support
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink0">
@@ -119,7 +120,7 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink1"
-                   data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                     About Us
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink1">
