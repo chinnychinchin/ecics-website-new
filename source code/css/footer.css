@@ -1,11 +1,13 @@
 /* footer style */
 #footer {
-    background: white;
-    color: black;
+    background: #00adef;
+    color: white;
+    margin-top: 7em;
 }
 
 .footer-head {
-    color: black;
+    /* padding-top: 2em; */
+    color: white;
 }
 
 .footer-links ul {
@@ -18,7 +20,7 @@
 
 .footer-links a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 0.9em;
 }
 

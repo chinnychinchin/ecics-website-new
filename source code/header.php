@@ -101,8 +101,17 @@
         <ul class="navbar-nav mr-auto">
         </ul>
         <ul class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Products</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2"
+                   data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                    Products
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
+                    <a class="dropdown-item" href="#">Car Insurance</a>
+                    <a class="dropdown-item" href="#">Home Insurance</a>
+                    <a class="dropdown-item" href="./maid_benefits.html" target="_blank">Maid Insurance</a>
+                    <a class="dropdown-item" href="#">Personal Accident</a>
+                </div>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink0"
@@ -110,9 +119,10 @@
                     Support
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink0">
-                    <a class="dropdown-item" href="#">Endorsement Request</a>
-                    <a class="dropdown-item" href="#">Cancellation Request</a>
-                    <a class="dropdown-item" href="#">E-Claim</a>
+                    <a class="dropdown-item" href="#">Call Me</a>
+                    
+                    <a class="dropdown-item" href="#">Make A Request</a>
+                    <a class="dropdown-item" href="#">FAQ</a>
                 </div>
             </li>
             <li class="nav-item">
@@ -128,6 +138,7 @@
                     <a class="dropdown-item" href="#">Financial Information</a>
                     <a class="dropdown-item" href="#">Corporate Policies</a>
                     <a class="dropdown-item" href="#">Privacy Policy</a>
+                    <a class="dropdown-item" href="#">Locate Us</a>
                 </div>
             </li>
             <li class="nav-item">
